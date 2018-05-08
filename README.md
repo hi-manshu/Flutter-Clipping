@@ -11,7 +11,7 @@ For help getting started with Flutter, view our online
 
 This is how the it looks like on android device
 <br/>
-<img src="https://github.com/hi-manshu/flutterclipping/blob/master/assets/clipping.jpg">.
+<img src="https://github.com/hi-manshu/Flutter-Clipping/blob/master/assets/clipping.jpg">.
 
 ### To Run the app in your local machine
 
